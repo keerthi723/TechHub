@@ -4,7 +4,7 @@ A comprehensive MERN stack web application for learning IoT, embedded systems, a
 
 ## 🚀 Live Demo
 
-**Frontend:** [Live on Vercel](https://techhub.vercel.app) _(will be updated after deployment)_
+**Frontend:** [Live on Vercel](https://tech-hub-sable-two.vercel.app)
 
 ## 🎯 Project Overview
 
